@@ -1,0 +1,41 @@
+{
+  "name": "antiraid-module",
+  "version": "1.0.0",
+  "description": "A discord module to protect from raids",
+  "main": "libs/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "https://github.com/Kara0016",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "discord.js": "^13.8.0",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kara0016/antiraid-module.git"
+  },
+  "keywords": [
+    "discord",
+    "antiraid",
+    "anti-raid",
+    "raid",
+    "protect",
+    "raidprotect",
+    "raid-protect",
+    "bot",
+    "package",
+    "npm",
+    "kara"
+  ]
+}
